@@ -139,7 +139,7 @@ h3 {
 
 }
 
-.benefit-lead img {
+/* .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -152,6 +152,14 @@ h3 {
 }
 
 .benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+} */
+
+/* combined benefit lead, brand, and cost img styling */
+
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
