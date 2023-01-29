@@ -15,15 +15,18 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* removed header class */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 /* removed header class */
 header h1 .seo {
     color: #d9dcd6;
 }
+
 /* removed header class and added nav*/
 header nav {
     padding-top: 15px;
@@ -32,10 +35,12 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /* removed header class  and added nav */
 header nav ul {
     list-style-type: none;
 }
+
 /* removed header class  and added nav */
 header nav ul li {
     display: inline-block;
@@ -86,8 +91,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* combined benefit lead, brand, and cost class */
-.benefit{
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -189,6 +195,7 @@ p {
     font-size: 36px;
 }
 
+/* removed footer as a class */
 footer {
     padding: 30px;
     clear: both;
@@ -196,6 +203,7 @@ footer {
     text-align: center;
 }
 
+/* removed footer as a class */
 footer h2 {
     font-size: 20px;
 }
